@@ -5,3 +5,6 @@
 - Java 8
 - Spring
 - DB Transaction 등
+
+## Java8 > Optional
+- https://dzone.com/articles/optional-anti-patterns
