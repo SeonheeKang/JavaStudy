@@ -1,4 +1,4 @@
-package com.study.java.optional;
+package com.study.java.optional.dto.test;
 
 import static org.junit.Assert.*;
 
@@ -9,8 +9,8 @@ import lombok.extern.slf4j.Slf4j;
 
 import org.junit.Test;
 
-import com.study.java.optional.model.Address;
-import com.study.java.optional.model.Buyer;
+import com.study.java.optional.dto.test.Address;
+import com.study.java.optional.dto.test.Buyer;
 
 /**
  * https://dzone.com/articles/optional-anti-patterns

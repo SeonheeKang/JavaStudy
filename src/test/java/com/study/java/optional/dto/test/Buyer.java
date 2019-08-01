@@ -1,4 +1,4 @@
-package com.study.java.optional.model;
+package com.study.java.optional.dto.test;
 
 import java.util.Optional;
 
